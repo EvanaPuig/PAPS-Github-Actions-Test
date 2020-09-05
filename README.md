@@ -62,4 +62,35 @@ jobs:
       run: ./gradlew build
 ```
 
+
 Next the hands-on starts, there is an example on how to add a workflow to a repo! (link above)
+
+1. I went to the top of the repo and clicked on ‘Actions’
+
+[image:058A2E98-6952-4FC5-9AC7-465FC81C8683-3262-00000C138B23DE72/10F22D4C-824F-4E55-ADC0-FB53F45459F4.png]
+
+2. The one suggested by default was the *Simple workflow*, which is not the one I would have expected, I would have expected an Android suggestion.
+
+[image:97698694-E6EA-467A-A695-45DE7C610E3E-3262-00000C2D7B2E30FD/FAF214A3-B07F-4E8E-AF70-3C5DDD5B197E.png]
+
+3. So I clicked in *Set up a workflow yourself*
+
+[image:3CD3D2C5-8278-4448-AF3B-F371C73680C8-3262-00000C393EFACAB3/230EEBB5-FFA3-4988-A005-80F855E0EC0C.png]
+
+4. And got a .yml to edit by myself.
+
+[image:F7730927-CC71-4A16-9104-99D30BA8FA23-3262-00000C42CCDEE9E5/18A0CADD-D40B-4813-83D1-5DA0362C129C.png]
+Note: to the right you get easy to add actions, so in case you don’t know how to properly write the YML, you can still get ‘templates’ as a beginner (liked this a lot).
+
+5. This was the default one. So I copied the Android starter I had in the code snippet above.
+
+6. Saved the files as main.yml, as it had by default and I clicked on *Start commit* green button at the right.
+
+7. I couldn’t merge it directly with my test branch, had only the option to merge directly to master or to create a branch specifically for this and start a PR.
+
+
+[image:384AA258-C200-4336-AAFD-75A924BCDC3D-3262-00000C908263E202/49CF162C-E32E-4FCC-9B87-92EA8F0567DF.png]
+
+8. I was taken directly to creating a PR
+
+[image:64D45CD3-7BEB-40DF-AFCD-4CACD7F37CFA-3262-00000C9E0B1CB62B/933664F3-6AD8-4918-83E5-675F9D7880D9.png]
