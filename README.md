@@ -94,3 +94,9 @@ Note: to the right you get easy to add actions, so in case you don’t know how 
 8. I was taken directly to creating a PR
 
 [image:64D45CD3-7BEB-40DF-AFCD-4CACD7F37CFA-3262-00000C9E0B1CB62B/933664F3-6AD8-4918-83E5-675F9D7880D9.png]
+
+9. Merged it and now I have the workflow.
+
+11. You can find the file in project > .github > workflows > main.yml
+
+[image:974C9461-FFC3-4BF2-818B-14F30E387C54-3262-00000DF5692CBBE9/DF472CCA-3A3E-45E8-95C5-7501490FAB8B.png]
