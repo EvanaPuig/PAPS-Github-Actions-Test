@@ -100,3 +100,12 @@ Note: to the right you get easy to add actions, so in case you don’t know how 
 11. You can find the file in project > .github > workflows > main.yml
 
 [image:974C9461-FFC3-4BF2-818B-14F30E387C54-3262-00000DF5692CBBE9/DF472CCA-3A3E-45E8-95C5-7501490FAB8B.png]
+
+### Actions from the Github Marketplace
+
+Docs at: [Using actions from GitHub Marketplace - GitHub Docs](https://docs.github.com/en/actions/getting-started-with-github-actions/using-actions-from-github-marketplace)
+
+If you go into the marketplace and search for Android, you see there is only one verified action (the one with a blue checkmark next to it)
+
+
+[image:02F5CB85-CB8D-4A3C-849A-A04DC8C52285-3262-00000E288E7A0C55/DCCA4055-A961-43C0-8F94-9F2D6A8862F3.png]
