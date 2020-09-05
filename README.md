@@ -108,3 +108,16 @@ Docs at: [Using actions from GitHub Marketplace - GitHub Docs](https://docs.gith
 If you go into the marketplace and search for Android, you see there is only one verified action (the one with a blue checkmark next to it)
 
 ![](https://github.com/evana-p/paps-github-actions-test/blob/master/images/DCCA4055-A961-43C0-8F94-9F2D6A8862F3.png)
+
+### Tested Actions
+
+I did a push directly in master and discovered the first file wasn’t working, so I created another workflow, this time called android.yml, removing the comments and weirdly that worked.
+
+![](https://github.com/evana-p/paps-github-actions-test/blob/master/images/C692A53C-882E-422D-9990-38A031815879.png)
+
+When I pushed it directly to master it did trigger the workflows in GitHub 
+
+
+![](https://github.com/evana-p/paps-github-actions-test/blob/master/images/F298601B-FF36-4D1D-AE28-3FC8D674601C.png)
+
+And you get pretty much what you would get in any other CI / CD tool
